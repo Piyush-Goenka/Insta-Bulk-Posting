@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "USER_1",
+      "uploads": [
+        {
+          "path": "path of file to post",
+          "description": "description of post"
+        },
+        {
+          "path": "path of file to post",
+          "description": "description of post"
+        }
+      ]
+    },
+    {
+      "name": "USER_2",
+      "uploads": [
+        {
+          "path": "path of file to post",
+          "description": "description of post"
+        },
+        {
+          "path": "path of file to post",
+          "description": "description of post"
+        }
+      ]
+    }
+  ]
+}
